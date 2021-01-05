@@ -1,3 +1,5 @@
+package TestSorting;
+
 import Sorting.IntSort;
 import org.junit.Test;
 

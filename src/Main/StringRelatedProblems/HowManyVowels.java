@@ -17,9 +17,9 @@ public class HowManyVowels {
         Long count = 0L;
 
         for (int i = 0; i < input.length(); i++) {
-            if(vowels.indexOf(input.charAt(i)) != -1);
-            count++;
-
+            if(vowels.indexOf(input.charAt(i)) != -1) {
+                count++;
+            }
         }
         return count;
     }
