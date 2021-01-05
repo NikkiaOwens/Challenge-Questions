@@ -1,4 +1,4 @@
-package StringRelatedProblems;
+package Strings;
 
 public class HowManyVowels {
 

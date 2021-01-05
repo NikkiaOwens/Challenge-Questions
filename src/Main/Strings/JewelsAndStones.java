@@ -1,4 +1,4 @@
-package StringRelatedProblems;
+package Strings;
 
 /**
  * 771. Jewels and Stones ~Leetcode

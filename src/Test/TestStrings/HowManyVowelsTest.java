@@ -1,6 +1,6 @@
 package TestStrings;
 
-import StringRelatedProblems.HowManyVowels;
+import Strings.HowManyVowels;
 import org.junit.Assert;
 import org.junit.Test;
 

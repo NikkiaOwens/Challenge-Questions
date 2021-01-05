@@ -1,6 +1,6 @@
 package TestStrings;
 
-import StringRelatedProblems.JewelsAndStones;
+import Strings.JewelsAndStones;
 import org.junit.Assert;
 import org.junit.Test;
 
