@@ -33,4 +33,10 @@ public class JewelsAndStones {
         }
         return count;
     }
+
+    public int shenanin(int x){
+
+
+        return 0;
+    }
 }
